@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.authapp"
+    namespace = "com.example.gravuregrid"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.authapp"
+        applicationId = "com.example.gravuregrid"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
