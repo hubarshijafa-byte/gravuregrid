@@ -1,22 +1,21 @@
 {
-  "_comment": "PLACEHOLDER FILE - this will NOT work as-is. Download the real google-services.json for your 'gravuregrid' Firebase project and replace this file. See README.md for exact steps.",
   "project_info": {
-    "project_number": "REPLACE_ME",
+    "project_number": "1030076575237",
     "project_id": "gravuregrid",
-    "storage_bucket": "gravuregrid.appspot.com"
+    "storage_bucket": "gravuregrid.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "REPLACE_ME",
+        "mobilesdk_app_id": "1:1030076575237:android:b81e78acb00ae63adc766c",
         "android_client_info": {
-          "package_name": "com.example.authapp"
+          "package_name": "com.example.gravuregrid"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "REPLACE_ME"
+          "current_key": "AIzaSyC9A-INGx-357o-GIIlCqByAbU6U04IStg"
         }
       ],
       "services": {
