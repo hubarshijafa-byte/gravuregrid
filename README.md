@@ -13,7 +13,7 @@ The app currently ships with a **placeholder** `app/google-services.json` — it
 ### 1. Register the Android app in Firebase
 1. Go to the [Firebase Console](https://console.firebase.google.com/) → open the **gravuregrid** project.
 2. Click **Add app → Android**.
-3. Enter package name: `com.example.authapp`
+3. Enter package name: `com.example.gravuregrid`
    (If you want a different package name, change it in `app/build.gradle.kts` under `namespace`/`applicationId` **and** in `AndroidManifest.xml`'s package references, then re-register with that name.)
 4. Download the generated **`google-services.json`**.
 5. Replace `app/google-services.json` in this project with the downloaded file.
