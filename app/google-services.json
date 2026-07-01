@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030076575237",
+    "project_id": "gravuregrid",
+    "storage_bucket": "gravuregrid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030076575237:android:b81e78acb00ae63adc766c",
+        "android_client_info": {
+          "package_name": "com.example.gravuregrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9A-INGx-357o-GIIlCqByAbU6U04IStg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
